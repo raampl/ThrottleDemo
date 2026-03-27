@@ -1,0 +1,17 @@
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.AssemblyInfoInputs.cache
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.AssemblyInfo.cs
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.csproj.CoreCompileInputs.cache
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.csproj.AssemblyReference.cache
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/ThrottleDemo
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/ThrottleDemo.deps.json
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/ThrottleDemo.runtimeconfig.json
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/ThrottleDemo.dll
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/ThrottleDemo.pdb
+/Users/rampal/ThrottleDemo/bin/Debug/net10.0/System.Threading.RateLimiting.dll
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/Throttle.46BFE0FE.Up2Date
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.dll
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/refint/ThrottleDemo.dll
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.pdb
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ThrottleDemo.genruntimeconfig.cache
+/Users/rampal/ThrottleDemo/obj/Debug/net10.0/ref/ThrottleDemo.dll
