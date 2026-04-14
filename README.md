@@ -32,6 +32,20 @@ The demo processes 20 requests with a limit of 5 operations per second:
 ...
 ```
 
+## Docker
+
+### Build the image
+
+```bash
+docker build -t throttledemo .
+```
+
+### Run the container
+
+```bash
+docker run throttledemo
+```
+
 ## Requirements
 
-- .NET 10.0
+- .NET 10.0 (or Docker for containerized execution)
