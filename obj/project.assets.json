@@ -62,11 +62,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rampal/ThrottleDemo/ThrottleDemo.csproj",
+      "projectUniqueName": "/Users/rampal/Documents/GitHub/ThrottleDemo/ThrottleDemo.csproj",
       "projectName": "ThrottleDemo",
-      "projectPath": "/Users/rampal/ThrottleDemo/ThrottleDemo.csproj",
+      "projectPath": "/Users/rampal/Documents/GitHub/ThrottleDemo/ThrottleDemo.csproj",
       "packagesPath": "/Users/rampal/.nuget/packages/",
-      "outputPath": "/Users/rampal/ThrottleDemo/obj/",
+      "outputPath": "/Users/rampal/Documents/GitHub/ThrottleDemo/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rampal/.nuget/NuGet/NuGet.Config"

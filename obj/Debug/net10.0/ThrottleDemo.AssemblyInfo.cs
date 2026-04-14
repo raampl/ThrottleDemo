@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ThrottleDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f83adbb113b9261f2f18c2a9f420c531c04b62d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ThrottleDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ThrottleDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
